@@ -1,0 +1,87 @@
+
+containers[0] <
+    div class = "item-container" >
+    <!--brand info-->
+    <!--product image-->
+    <
+    a class = "item-img"
+href = "https://www.newegg.com/Product/ComboBundleDetails.aspx?ItemList=Combo.3835365" >
+    <
+    div class = "item-badges" >
+    <
+    /div> <
+    img alt = "AMD RYZEN 7 2700X 8-Core 3.7 GHz (4.3 GHz Max Boost) Processor, ASUS Prime X470-Pro AM4 AMD X470 SATA 6Gb/s USB 3.1 HDMI ..."
+class = "lazy-img"
+data - effect = "fadeIn"
+data - src = "//c1.neweggimages.com/NeweggImage/ProductImageCompressAll300/combo3835365.jpg"
+src = "//c1.neweggimages.com/WebResource/Themes/2005/Nest/blank.gif"
+title = "AMD RYZEN 7 2700X 8-Core 3.7 GHz (4.3 GHz Max Boost) Processor, ASUS Prime X470-Pro AM4 AMD X470 SATA 6Gb/s USB 3.1 HDMI ..." >
+    <
+    /img></a >
+    <
+    div class = "item-info" >
+    <!--description info-->
+    <
+    a class = "item-title"
+href = "https://www.newegg.com/Product/ComboBundleDetails.aspx?ItemList=Combo.3835365"
+title = "View Details" > AMD RYZEN 7 2700 X 8 - Core 3.7 GHz(4.3 GHz Max Boost) Processor, ASUS Prime... < /a>
+    <!--promption info-->
+    <
+    div class = "item-action" >
+    <!--price-->
+    <
+    ul class = "price" >
+    <
+    li class = "price-was" >
+    $474 .98 <
+    span class = "price-was-data"
+style = "display: none" > 474.98 < /span> <
+    /li> <
+    li class = "price-map" >
+    <
+    /li> <
+    li class = "price-current" >
+    <
+    span class = "price-current-label" >
+    <
+    /span>$<strong>457</strong > < sup > .98 < /sup>  <
+    span class = "price-current-range" >
+    <
+    abbr title = "to" > – < /abbr> <
+    /span> <
+    /li> <
+    li class = "price-save" >
+    <
+    span class = "price-save-endtime price-save-endtime-current" > < /span> <
+    span class = "price-save-endtime price-save-endtime-another"
+style = "display:none;" > < /span> <
+    span class = "price-save-label" > Combo save: < /span> <
+    span class = "price-save-dollar" > $17 .00 < /span> <
+    span class = "price-save-percent" > < /span> <
+    /li> <
+    li class = "price-note" >
+    <
+    /li> <
+    li class = "price-ship" >
+    <
+    /li> <
+    /ul>
+    <!--egg point-->
+    <!--button-->
+    <
+    div class = "item-operate hidden-action-button" >
+    <
+    div class = "item-button-area" >
+    <
+    button class = "btn btn-mini btn-primary"
+onclick = "Biz.Product.video.conversion('tab\x3a\x7bComponents\x7d','3835365','1');Javascript:Biz.ProductList.Item.add('https://secure.newegg.com/Shopping/AddToCart.aspx?Submit=ADD&amp;ItemList=Combo.3835365');"
+title = "Add  to cart"
+type = "button" > Add To Cart < i class = "fa fa-caret-right" > < /i></button >
+    <
+    /div>
+    <!--compare-->
+    <
+    /div> <
+    /div> <
+    /div> <
+    /div>
